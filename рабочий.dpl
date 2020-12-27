@@ -1,0 +1,127 @@
+﻿DAUMPLAYLIST
+playname=http://nn1.joj.sk/hls/joj-720.m3u8
+topindex=3
+saveplaypos=0
+1*file*http://92.62.234.223/104/mystream.m3u8
+1*title*Prima Cool
+1*thumbnail*https://i.imgur.com/ozTTabf.png
+2*file*http://70.32.0.9:5000/live/518/playlist.m3u8
+2*title*Prima Max
+2*invalid*1
+2*thumbnail*https://i.imgur.com/qxirpFi.png
+3*file*http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+3*title*Óčko (Opt-1)
+3*thumbnail*https://i.imgur.com/QdtTIXF.png
+4*file*https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8
+4*title*Óčko (Opt-2)
+4*thumbnail*https://i.imgur.com/QdtTIXF.png
+5*file*http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+5*title*Óčko (Opt-3)
+5*thumbnail*https://i.imgur.com/QdtTIXF.png
+6*file*http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+6*title*Óčko Expres (Opt-1)
+6*thumbnail*https://i.imgur.com/gAxXjom.png
+7*file*http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+7*title*Óčko Expres Opt-2)
+7*thumbnail*https://i.imgur.com/gAxXjom.png
+8*file*http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+8*title*Óčko Gold (Opt-1)
+8*thumbnail*https://i.imgur.com/SugUCU8.png
+9*file*https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+9*title*Óčko Gold (Opt-2)
+9*thumbnail*https://i.imgur.com/SugUCU8.png
+10*file*http://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist.m3u8
+10*title*Óčko Gold (Opt-3)
+10*thumbnail*https://i.imgur.com/SugUCU8.png
+11*file*https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+11*title*Polar TV
+11*thumbnail*https://i.imgur.com/rKQl7c1.png
+12*file*https://stream.polar.cz/prahatv/prahatvlive-1/playlist.m3u8
+12*title*Praha TV
+12*thumbnail*https://i.imgur.com/R9FORkT.png
+13*file*http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+13*title*Retro
+13*thumbnail*https://i.imgur.com/7R9K4qa.png
+14*file*https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
+14*title*Šlágr
+14*thumbnail*https://i.imgur.com/el22TX6.png
+15*file*https://ocko-live.ssl.cdn.cra.cz/channels/stv1/playlist/cze/live_hd.m3u8
+15*title*Jednotka
+15*played*1
+15*invalid*1
+15*thumbnail*https://i.imgur.com/KI5LOFq.png
+16*file*https://ocko-live.ssl.cdn.cra.cz/channels/stv2/playlist/cze/live_hd.m3u8
+16*title*Dvojka
+16*invalid*1
+16*thumbnail*https://i.imgur.com/Ocv3qLC.png
+17*file*http://nn.geo.joj.sk/hls/joj-540.m3u8
+17*title*JOJ TV (Opt-1)
+17*invalid*1
+17*thumbnail*https://i.imgur.com/FcBu33C.png
+18*file*http://nn.geo.joj.sk/hls/joj-720.m3u8?fluxustv.m3u8
+18*title*JOJ TV (Opt-2)
+18*invalid*1
+18*thumbnail*https://i.imgur.com/FcBu33C.png
+19*file*http://nn1.joj.sk/hls/joj-720.m3u8
+19*title*JOJ TV (Opt-3)
+19*thumbnail*https://i.imgur.com/FcBu33C.png
+20*file*http://nn.geo.joj.sk/hls/joj-360.m3u8
+20*title*JOJ TV (Opt-4)
+20*thumbnail*https://i.imgur.com/FcBu33C.png
+21*file*http://nn.geo.joj.sk/hls/jojplus-540.m3u8
+21*title*JoJ Plus (Opt-1)
+21*invalid*1
+21*thumbnail*https://i.imgur.com/FcBu33C.png
+22*file*https://nn.geo.joj.sk/live/hls/jojplus-360.m3u8
+22*title*JoJ Plus (Opt-2)
+22*invalid*1
+22*thumbnail*https://i.imgur.com/FcBu33C.png
+23*file*http://nn.geo.joj.sk/hls/family-360.m3u8
+23*title*JOJ Family (Opt-1)
+23*invalid*1
+23*thumbnail*https://i.imgur.com/FcBu33C.png
+24*file*http://nn.geo.joj.sk/hls/family-540.m3u8
+24*title*JOJ Family (Opt-2)
+24*thumbnail*https://i.imgur.com/FcBu33C.png
+25*file*http://nn2.joj.sk/hls/family-540.m3u8
+25*title*JOJ Family (Opt-3)
+25*invalid*1
+25*thumbnail*https://i.imgur.com/FcBu33C.png
+26*file*https://nn5.joj.sk/hls/family-540.m3u8
+26*title*JOJ Family (Opt-5)
+26*invalid*1
+26*thumbnail*https://i.imgur.com/FcBu33C.png
+27*file*http://nn.geo.joj.sk/hls/rik-360.m3u8
+27*title*Jojko
+27*thumbnail*https://img.joj.sk/rx/63bd046e-a2e3-41a4-a35b-cf25807b68ee.png
+28*file*https://nn.geo.joj.sk/live/wau-index.m3u8?fluxustv.m3u8
+28*title*TV Wau
+28*thumbnail*https://i.imgur.com/CivJqLv.png
+29*file*https://nn.geo.joj.sk/hls/wau-540.m3u8
+29*title*Wau TV (Opt-1)
+29*invalid*1
+29*thumbnail*https://i.imgur.com/QiNPZJ6.png
+30*file*https://nn.geo.joj.sk/live/wau-index.m3u8?fluxustv.m3u8
+30*title*Wau TV (Opt-2)
+30*thumbnail*https://i.imgur.com/QiNPZJ6.png
+31*file*http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+31*title*The Box
+31*thumbnail*https://i.imgur.com/gPaTIUd.png
+32*file*http://nn2.joj.sk/hls/wau-540.m3u8
+32*title*Wau TV (Opt-3)
+32*thumbnail*https://i.imgur.com/QiNPZJ6.png
+33*file*http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
+33*title*Nat Geo People
+33*invalid*1
+33*thumbnail*https://i.imgur.com/Wfqt9BS.png
+34*file*http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+34*title*Nat Geo Wild
+34*invalid*1
+34*thumbnail*https://i.imgur.com/h0NNZ2U.png
+35*file*http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+35*title*National Geographic
+35*invalid*1
+35*thumbnail*https://i.imgur.com/bUepAp5.png
+36*file*http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+36*title*Box Hits
+36*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png

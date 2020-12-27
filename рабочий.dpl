@@ -1,6 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=http://nn1.joj.sk/hls/joj-720.m3u8
-topindex=3
+playname=http://nn.geo.joj.sk/hls/joj-540.m3u8
+topindex=0
 saveplaypos=0
 1*file*http://92.62.234.223/104/mystream.m3u8
 1*title*Prima Cool
@@ -56,7 +56,6 @@ saveplaypos=0
 16*thumbnail*https://i.imgur.com/Ocv3qLC.png
 17*file*http://nn.geo.joj.sk/hls/joj-540.m3u8
 17*title*JOJ TV (Opt-1)
-17*invalid*1
 17*thumbnail*https://i.imgur.com/FcBu33C.png
 18*file*http://nn.geo.joj.sk/hls/joj-720.m3u8?fluxustv.m3u8
 18*title*JOJ TV (Opt-2)
